@@ -1,0 +1,47 @@
+Script started on Sun Aug 30 13:21:34 2020
+[1m[7m%[27m[1m[0m                                                                                            [0m[27m[24m[Jlethalfox@MacBook-Pro Virtual Restaurant % [K[?2004h../virtual[1m [0m[0m [?2004l
+
+	  Hello there! Weclome to VIRTU-RANT Restaurant!
+	At this restaurant, our customers get a surprise meal
+	based on what they prefer and we prepare it for them.
+			Let's get started!!
+
+How much do you like meat on scale of 1 to 100? 
+90
+90
+How much do you like vegetables on scale of 1 to 100? 
+93
+93
+How much do you like pasta on scale of 1 to 100? 
+80
+80
+How much do you like potatoes on scale of 1 to 100? 
+78
+78
+How much do you like chocolate on scale of 1 to 100? 
+93
+93
+How much do you like fruit on scale of 1 to 100? 
+92
+92
+What is your budget (before tax) for this meal? 
+20
+20
+
+Appetizer: Garden Salad
+
+Main Course: Pasta primavera
+
+Dessert: Chocolate cake
+
+Here is your order summary: 
+		Garden Salad: $5
+		Pasta primavera: $10
+		Chocolate cake: $5
+		Sales Tax: $1.4
+		Total: $21.4
+
+Thank you for eating at VIRTU-RANT We hope to see you again soon!!
+[1m[7m%[27m[1m[0m                                                                                            [0m[27m[24m[Jlethalfox@MacBook-Pro Virtual Restaurant % [K[?2004heexit[?2004l
+
+Script done on Sun Aug 30 13:22:13 2020
